@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/BottomPillBar.qml</file>
+        <file>qml/LoginPage.qml</file>
+        <file>qml/FacilitiesPage.qml</file>
+        <file>qml/SchedulePage.qml</file>
+        <file>qml/CampusMapPage.qml</file>
+        <file>qml/RequestsPage.qml</file>
+        <file>qml/MorePage.qml</file>
+        <file>qml/StyleTheme.qml</file>
+        <file>qml/AppleIcon.qml</file>
+    </qresource>
+</RCC>

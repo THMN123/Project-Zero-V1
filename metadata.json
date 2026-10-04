@@ -1,0 +1,5 @@
+{
+  "name": "Project Zero - NUL Campus Resource & Activity Management System",
+  "description": "Comprehensive campus facility, resource booking, timetable scheduling, and navigation system with interactive data structures (BST, Dijkstra, Hash Table, Queues, Heaps).",
+  "requestFramePermissions": []
+}
